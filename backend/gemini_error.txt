@@ -1,0 +1,3 @@
+Time: 2026-05-15T16:42:48.806Z
+Error: All AI models failed to respond. Please check your API key permissions.
+Key: AIzaS...
